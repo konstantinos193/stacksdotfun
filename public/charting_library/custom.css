@@ -1,0 +1,27 @@
+:root:not(.theme-dark) {
+  --tv-color-platform-background: #0A0A0A;
+  --tv-color-pane-background: #0A0A0A;
+  --tv-color-pane-background-secondary: #18181b;
+  --tv-color-toolbar-button-background-hover: #27272a;
+  --tv-color-toolbar-button-background-secondary-hover: #27272a;
+  --tv-color-toolbar-button-background-expanded: #27272a;
+  --tv-color-toolbar-button-text: #a1a1aa;
+  --tv-color-toolbar-button-text-hover: #ffffff;
+  --tv-color-toolbar-button-text-active: #ffffff;
+  --tv-color-toolbar-button-text-active-hover: #ffffff;
+  --tv-color-item-active-text: #ffffff;
+  --tv-color-toolbar-toggle-button-background-active: #FF5500;
+  --tv-color-toolbar-toggle-button-background-active-hover: #FF5500;
+}
+
+.chart-page {
+  background-color: #0A0A0A !important;
+}
+
+.loading-screen {
+  background-color: #0A0A0A !important;
+}
+
+.chart-container {
+  border: none !important;
+} 
